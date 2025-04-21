@@ -57,12 +57,17 @@ Ownership is transferred at every checkpoint.
 
 Buyers can check the authenticity before purchasing.
 
+# Output:
+![Screenshot 2025-04-19 095105](https://github.com/user-attachments/assets/6ff71ed7-609b-44bb-b329-b0755bfb58b4)
+![Screenshot 2025-04-21 110302](https://github.com/user-attachments/assets/5c24f2f0-04fc-41b6-b7d6-09a5fccb6e40)
+
 
 # High-Level Overview:
 Helps prevent counterfeit luxury goods.
 
 
 Teaches real-world supply chain use cases.
+# Output:
 
 # RESULT : 
-
+Thus,The Program Executed Successfully
