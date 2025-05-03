@@ -82,7 +82,10 @@ Users can borrow ETH by providing collateral.
 
 If collateral < 150% of borrowed amount, liquidators can seize the collateral.
 
-
+![1](https://github.com/user-attachments/assets/2d1bd500-b933-402d-a01a-0eef206603cd)
+![2](https://github.com/user-attachments/assets/56ae3f29-503c-4821-bdcf-8d63dc3b1005)
+![3](https://github.com/user-attachments/assets/38c85cd6-744c-485e-a2cd-8d614d77df1f)
+![4](https://github.com/user-attachments/assets/9e03b754-4612-43dd-bbc6-6f1dda56fbbd)
 
 # High-Level Overview:
 Teaches key DeFi concepts: lending, borrowing, collateral, liquidation.
