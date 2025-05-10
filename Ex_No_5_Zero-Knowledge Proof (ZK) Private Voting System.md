@@ -65,6 +65,10 @@ When revealed, the contract verifies correctness but keeps votes anonymous.
 
 Final result is publicly verifiable without exposing individual votes.
 
+![51](https://github.com/user-attachments/assets/b238755d-de02-4e0b-9511-8b33362a0570)
+![52](https://github.com/user-attachments/assets/ffdef06c-3bcc-4a40-ab30-645f9e6792d6)
+![53](https://github.com/user-attachments/assets/5cef1b48-9e0b-429f-93a9-b97102f9934d)
+![54](https://github.com/user-attachments/assets/dd59b9a5-f0bf-4fdf-80b3-0cb89994d882)
 
 
 # High-Level Overview:
@@ -77,3 +81,4 @@ Prevents vote tampering while maintaining voter privacy.
 Mimics real-world ZK voting applications in governance and DAOs.
 
 # RESULT: 
+Thus,The Program Executed Successfully.
